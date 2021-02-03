@@ -1,1 +1,1 @@
-# Analysis of budget information and polling statistics using Python
+# Analysis of stock information using Excel and VBA
